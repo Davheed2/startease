@@ -14,17 +14,17 @@ StartEase is a command-line interface (CLI) tool designed to make project setup 
 
 We would like to thank our amazing sponsors for their support:
 
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
-  <a href="https://sourcegraph.com/cody" style="display: flex; align-items: center; gap: 10px;">
-      <img src="https://storage.googleapis.com/sourcegraph-assets/cody/20230417/logomark-default.svg" width="26">
-      <span>Cody</span>
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; margin: 20px 0;">
+  <a href="https://sourcegraph.com/cody" style="display: flex; align-items: center; text-decoration: none;">
+      <img src="https://storage.googleapis.com/sourcegraph-assets/cody/20230417/logomark-default.svg" width="40" style="margin-right: 8px;">
+      <span style="font-size: 18px; color: #333;">Cody</span>
   </a>
-  <a href="https://www.jetbrains.com/" style="margin-left: 20px; display: flex; align-items: center; gap: 10px;">
-    <img src="https://avatars.githubusercontent.com/u/878437?s=200&v=4" alt="JetBrains" height="40"/>
-    <span>JetBrains</span>
+  <a href="https://www.jetbrains.com/" style="display: flex; align-items: center; text-decoration: none;">
+    <img src="https://avatars.githubusercontent.com/u/878437?s=200&v=4" alt="JetBrains" height="40" style="margin-right: 8px;"/>
+    <span style="font-size: 18px; color: #333;">JetBrains</span>
   </a>
-  <a href="https://adaptable.io" style="margin-left: 20px; display: flex; align-items: center;">
-    <img src="https://raw.githubusercontent.com/adaptable/media/main/logos/Adaptable-Primary-Logo.png" alt="Adaptable.io" height="40"/>
+  <a href="https://adaptable.io" style="display: flex; align-items: center; text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/adaptable/media/main/logos/Adaptable-Primary-Logo.png" alt="Adaptable.io" height="40" style="margin-right: 8px;"/>
   </a>
 </div>
 
