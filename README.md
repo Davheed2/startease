@@ -12,6 +12,8 @@ StartEase is a command-line interface (CLI) tool designed to make project setup 
 
 ## Sponsors
 
+We would like to thank our amazing sponsors for their support:
+
 | [Cody](https://sourcegraph.com/cody) | [JetBrains](https://www.jetbrains.com/) | [Adaptable](https://adaptable.io) |
 |:-------------------------------------:|:---------------------------------------:|:---------------------------------:|
 | <img src="https://storage.googleapis.com/sourcegraph-assets/cody/20230417/logomark-default.svg" width="80" alt="Cody Logo">| <img src="https://avatars.githubusercontent.com/u/878437?s=200&v=4" width="80" alt="JetBrains Logo"> | <img src="https://raw.githubusercontent.com/adaptable/media/main/logos/Adaptable-Primary-Logo.png" width="80" alt="Adaptable.io Logo">|
