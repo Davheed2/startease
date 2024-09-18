@@ -15,17 +15,24 @@ StartEase is a command-line interface (CLI) tool designed to make project setup 
 We would like to thank our amazing sponsors for their support:
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; margin: 20px 0;">
-  <a href="https://sourcegraph.com/cody" style="display: flex; align-items: center; text-decoration: none;">
-      <img src="https://storage.googleapis.com/sourcegraph-assets/cody/20230417/logomark-default.svg" width="40" style="margin-right: 8px;">
-      <span style="font-size: 18px; color: #333;">Cody</span>
-  </a>
-  <a href="https://www.jetbrains.com/" style="display: flex; align-items: center; text-decoration: none;">
-    <img src="https://avatars.githubusercontent.com/u/878437?s=200&v=4" alt="JetBrains" height="40" style="margin-right: 8px;"/>
-    <span style="font-size: 18px; color: #333;">JetBrains</span>
-  </a>
-  <a href="https://adaptable.io" style="display: flex; align-items: center; text-decoration: none;">
-    <img src="https://raw.githubusercontent.com/adaptable/media/main/logos/Adaptable-Primary-Logo.png" alt="Adaptable.io" height="40" style="margin-right: 8px;"/>
-  </a>
+  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 10px; text-align: center;">
+    <a href="https://sourcegraph.com/cody" style="display: flex; flex-direction: column; align-items: center; text-decoration: none;">
+      <img src="https://storage.googleapis.com/sourcegraph-assets/cody/20230417/logomark-default.svg" width="40" style="margin-bottom: 5px;">
+      <span style="font-size: 16px; color: #333;">Cody</span>
+    </a>
+  </div>
+  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 10px; text-align: center;">
+    <a href="https://www.jetbrains.com/" style="display: flex; flex-direction: column; align-items: center; text-decoration: none;">
+      <img src="https://avatars.githubusercontent.com/u/878437?s=200&v=4" alt="JetBrains" height="40" style="margin-bottom: 5px;"/>
+      <span style="font-size: 16px; color: #333;">JetBrains</span>
+    </a>
+  </div>
+  <div style="border: 1px solid #ccc; border-radius: 8px; padding: 10px; text-align: center;">
+    <a href="https://adaptable.io" style="display: flex; flex-direction: column; align-items: center; text-decoration: none;">
+      <img src="https://raw.githubusercontent.com/adaptable/media/main/logos/Adaptable-Primary-Logo.png" alt="Adaptable.io" height="40" style="margin-bottom: 5px;"/>
+      <span style="font-size: 16px; color: #333;">Adaptable</span>
+    </a>
+  </div>
 </div>
 
 ## Features
